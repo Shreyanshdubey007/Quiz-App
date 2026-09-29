@@ -1,0 +1,15 @@
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database (auto-generated on first run)
+*.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
